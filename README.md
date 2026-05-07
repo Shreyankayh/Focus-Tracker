@@ -182,7 +182,7 @@ CREATE TABLE data (
 ## 📱 Screenshots
 
 ### Dashboard - Add & Manage Tasks
-![Dashboard](./screenshots/dashboard.png)
+![Dashboard](./screenshots/Dashboard.png)
 
 ### Login Page
 ![Login](./screenshots/login.png)
