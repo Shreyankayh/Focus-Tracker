@@ -10,15 +10,9 @@
 
 ## 📖 About This Project
 
-**Focus Tracker Pro** is my first full-stack capstone project completed during my internship. This application demonstrates core full-stack development concepts including:
+**Focus Tracker Pro** is my first full-stack capstone project during my internship. It demonstrates how frontend, backend, and database layers work together to create a complete web application.
 
-- **Frontend Development**: Responsive HTML/CSS with Bootstrap and modern glassmorphism UI design
-- **Backend Development**: Flask microframework for routing and business logic
-- **Database Management**: SQLite for data persistence and user authentication
-- **Authentication**: Secure password hashing with werkzeug security utilities
-- **User Experience**: Clean, intuitive interface for seamless task management
-
-This project was built to understand how different layers of web development work together and how to build a complete, functional web application from scratch.
+The app includes user authentication with secure passwords, a clean dashboard, and task management features—all built from scratch to learn full-stack development fundamentals.
 
 ## ✨ Features
 
@@ -187,35 +181,23 @@ CREATE TABLE data (
 
 ## 📱 Screenshots
 
-### Registration Page
-- Beautiful gradient background (orange to pink)
-- Centered card layout
-- Username and password inputs
-- Link to existing account login
+### Dashboard - Add & Manage Tasks
+![Dashboard](./screenshots/dashboard.png)
 
 ### Login Page
-- Gradient background (green to teal)
-- Secure login form
-- Link to create new account
-- Professional styling
+![Login](./screenshots/login.png)
 
-### Dashboard
-- Glassmorphic card design
-- Input form for adding tasks
-- Table displaying all entries
-- Delete functionality per task
-- Logout button in navbar
+### Registration Page
+![Register](./screenshots/register.png)
 
 ## 🎓 Learning Outcomes
 
-This project helped me understand:
-
-- **Backend Development**: Building routes, handling requests, and managing data flow
-- **Frontend Design**: Creating responsive, user-friendly interfaces
-- **Database Design**: Designing schemas and writing efficient queries
-- **Authentication**: Implementing secure user authentication systems
-- **Full-Stack Integration**: Connecting frontend, backend, and database layers
-- **Web Development Workflow**: From concept to deployment
+✅ Building REST routes and handling HTTP requests  
+✅ Creating responsive, user-friendly interfaces  
+✅ Database design and query optimization  
+✅ Secure password hashing and user authentication  
+✅ Connecting all layers: frontend ↔ backend ↔ database  
+✅ Deploying and managing a complete web application
 
 ## 🚧 Future Enhancements
 
@@ -248,31 +230,15 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## 🙏 Acknowledgments
 
-- **Flask Documentation**: For the excellent framework and tutorials
-- **Bootstrap**: For beautiful, responsive UI components
-- **My Mentors**: For guidance during my internship
-- **The Open Source Community**: For amazing tools and libraries
+- **� Author
 
-## 📧 Contact & Support
+**Shreyankyah**  
+- 🔗 GitHub: [@Shreyankyah](https://github.com/Shreyankyah)
+- 📧 Email: shreyankyah@example.com
 
-- **Author**: Shreyankyah
-- **Email**: shreyankyah@example.com
-- **GitHub**: [@Shreyankyah](https://github.com/Shreyankyah)
-- **LinkedIn**: [Connect with me](https://linkedin.com/in/shreyankyah)
+## 🎯 Key Takeaway
 
-## 🎯 Lessons Learned
-
-This capstone project taught me that full-stack development is about understanding how all pieces fit together. It's not just about writing code—it's about:
-
-- Planning the architecture
-- Understanding user needs
-- Writing secure, maintainable code
-- Thinking about edge cases
-- Creating intuitive user experiences
-
-I'm excited to apply these learnings to more complex projects in the future!
-
----
+Building this project taught me that full-stack development is about connecting all the pieces—from database design to UI/UX. It's a practical lesson in how the web actually works
 
 **⭐ If you found this project helpful or interesting, please consider giving it a star!**
 
