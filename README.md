@@ -181,14 +181,18 @@ CREATE TABLE data (
 
 ## 📱 Screenshots
 
-### Dashboard - Add & Manage Tasks
-![Dashboard](./screenshots/Dashboard.png)
+### Dashboard - Add & Manage Tasks! 
+
+![Dashboard](./screenshots/Dashboard.png)<img width="1366" height="652" alt="Dashboard" src="https://github.com/user-attachments/assets/c6ae9da3-24a3-4e51-8305-211521a63de1" />
+
 
 ### Login Page
-![Login](./screenshots/login.png)
+![Login](./screenshots/login.png)<img width="1366" height="654" alt="login" src="https://github.com/user-attachments/assets/a41b4d94-290c-47e5-b2db-c1263aea8666" />
+
 
 ### Registration Page
-![Register](./screenshots/register.png)
+![Register](./screenshots/register.png)<img width="1363" height="646" alt="register" src="https://github.com/user-attachments/assets/01300846-524b-4fbd-85ce-4f6ae1580b16" />
+
 
 ## 🎓 Learning Outcomes
 
@@ -228,13 +232,11 @@ This is a learning project, but suggestions and improvements are welcome! Feel f
 
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-## 🙏 Acknowledgments
-
-- **� Author
+ 
 
 **Shreyankyah**  
 - 🔗 GitHub: [@Shreyankyah](https://github.com/Shreyankyah)
-- 📧 Email: shreyankyah@example.com
+- 📧 Email: ylanand11@gmail.com
 
 ## 🎯 Key Takeaway
 
