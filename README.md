@@ -234,8 +234,8 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
  
 
-**Shreyankyah**  
-- 🔗 GitHub: [@Shreyankyah](https://github.com/Shreyankyah)
+**Shreyankayh**  
+- 🔗 GitHub: [@Shreyankayh](https://github.com/Shreyankayh)
 - 📧 Email: ylanand11@gmail.com
 
 ## 🎯 Key Takeaway
